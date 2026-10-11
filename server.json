@@ -1,0 +1,67 @@
+[
+    {
+        "Update": "0",
+        "TimeUpdate": "2026-9-25 13:43:01 2",
+        "version": "0.04",
+        "link": "https://domain-cua-ban.com/app-v0.04.apk"
+    },
+    {
+        "Key": [
+            "1D_jsdjf",
+            "1D_jerjfjjfds",
+            "7D_gye74hdf"
+        ]
+    },
+    {
+        "SupportVersion": "V54",
+        "MenuText": "Welcome to the menu - text này có thể đổi trực tiếp trên server",
+        "BaoTri": "1",
+        "TimeBaoTri": "2026-9-25 15:16:01",
+        "user": "ad",
+        "pass": "2",
+        "imei": ""
+    },
+    {
+        "user": "m2",
+        "pass": "1",
+        "ban": "0",
+        "expiry": "2026-10-31 23:59:59",
+        "imei": ""
+    },
+    {
+        "user": "m22",
+        "pass": "1",
+        "ban": "0",
+        "expiry": "2026-10-31 23:59:59",
+        "imei": ""
+    },
+    {
+        "user": "ban",
+        "pass": "1",
+        "expiry": "2028-12-31 23:59:59",
+        "imei": "80adb2ada9d3d3ee"
+    },
+    {
+        "user": "a",
+        "pass": "1",
+        "expiry": "2027-9-31 23:59:59",
+        "imei": ""
+    },
+    {
+        "key": "m3 m4 m5 m6 m7",
+        "expiry": "2026-10-31 23:59:59"
+    },
+    {
+        "user": "2",
+        "pass": "1",
+        "expiry": "2026-9-31 23:59:59",
+        "imei": ""
+    },
+    {
+        "user": "qqqaq",
+        "pass": "edddds",
+        "ban": "0",
+        "expiry": "2026-09-28 20:43:28",
+        "trial": "1"
+    }
+]
